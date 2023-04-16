@@ -1,8 +1,8 @@
 cook
 clean the bathroom
-brush
-turn the lights off
-add a new member
-make soup
+bathBuy plantsmake soup
 clean the code
-Turn off the lights
+Turn on the lights
+Master Python!clean the house
+Buy candy
+And lastly!
